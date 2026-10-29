@@ -14,7 +14,7 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 
 This method should also work on other **3.3.5a servers**, but may introduce bugs due to patch load order. **I will not provide support for these issues.**
 
-**📖 [HD Patch Compatibility & Renaming Guide](INSERT LINK)**
+**📖 [HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)****
 
 **📸 Screenshots / Comparisons**
 
