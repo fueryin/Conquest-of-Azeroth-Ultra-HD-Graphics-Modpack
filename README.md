@@ -10,6 +10,16 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 
 **Important:** Please open Config.wtf and adjust the resolution and refresh rate to match your monitor's settings. Adjust UI Scale to what you like
 
+### 💡 How to Bypass the Google Drive Download Limit
+
+If Google Drive reports that the download quota has been exceeded:
+
+1. Add the file as a shortcut to your Google Drive.
+2. Create a new folder in your Drive and move the shortcut into it.
+3. Download the folder as a ZIP archive.
+
+This workaround may help when Google Drive restricts direct downloads.
+
  ### ⚠️ Compatibility Notice
 
 **Fully supported on Conquest of AzerothCore only.**
