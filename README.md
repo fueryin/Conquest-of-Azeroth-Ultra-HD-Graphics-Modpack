@@ -6,7 +6,7 @@ This mod pack combines numerous visual upgrades into one complete package, along
 
 The goal is to dramatically improve the game's visual fidelity while preserving the original World of Warcraft art style.
 
-# ⚠️ Compatibility Notice
+ ⚠️ Compatibility Notice
 
 **Fully supported on Conquest of Azeroth Core only.**
 
