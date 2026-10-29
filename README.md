@@ -58,6 +58,16 @@ In addition to the HD patches, the download includes several additional enhancem
 - My personal ReShade configuration, tuned for this overhaul.
 - Improved visual clarity, contrast, colors, and overall presentation.
 
+**⚙️ Custom Config.wtf – Maximum Graphics**
+
+My personal Config.wtf file with graphics settings pushed to their maximum.
+
+Preconfigured for the best possible visual quality, including enhanced draw distances, environmental detail, shadows, and graphical effects.
+
+Included for those who want to get the most out of the Ultra-HD overhaul without manually adjusting console variables.
+
+⚠️ Important: Please open Config.wtf and adjust the resolution and refresh rate to match your monitor's settings. It is currently configured for 3840 × 2160 240HZ.
+
 **🎵 Additional Add-ons**
 
 Blood Splats on Critical Hits – Adds blood splatter effects on-screen when landing critical strikes.
