@@ -10,7 +10,7 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 
  ### ⚠️ Compatibility Notice
 
-**Fully supported on Conquest of Azeroth Core only.**
+**Fully supported on Conquest of AzerothCore only.**
 
 **Conquest Reborn, ArdenWoW, and Grimfall** currently detect modified clients. However, all HD patches, LuxVelum, ReShade, and other enhancements can still be used by renaming the patches.
 
