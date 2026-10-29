@@ -51,14 +51,19 @@ In addition to the HD patches, the download includes several additional enhancem
 - Forever Fog enhancements.
 - Improved environmental lighting.
 - Enhanced water rendering.
-- Additional graphical and atmospheric improvements.
+
 
 **🎨 Custom ReShade Preset**
 
 - My personal ReShade configuration, tuned for this overhaul.
 - Improved visual clarity, contrast, colors, and overall presentation.
-- Complements the enhanced textures, lighting, and environments.
-- Optional, but recommended for the complete experience.
+
+**🎵 Additional Add-ons**
+
+Blood Splats on Critical Hits – Adds blood splatter effects on-screen when landing critical strikes.
+
+Dance Music – Adds music when using dance emotes.
+
 
 ---
 
