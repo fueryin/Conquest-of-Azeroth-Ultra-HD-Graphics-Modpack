@@ -1,18 +1,44 @@
+
 # 🌌 Ascension: Conquest of Azeroth – Ultra-HD Mod Pack
 
-A complete **Ultra-HD graphics and audio overhaul** for **Ascension: Conquest of Azeroth**, bringing modernized creature models, high-resolution textures, enhanced spell effects, improved environments, lighting, water, shaders, and much more.
+A complete Ultra-HD graphics and audio overhaul for **Ascension: Conquest of Azeroth**, featuring modernized creature models, high-resolution textures, enhanced spell effects, improved environments, lighting, water, shaders, and more.
 
-This mod pack combines numerous visual upgrades into one complete package, alongside a **custom 64-bit Conquest of Azeroth client**, **LuxVelum**, and my personal **ReShade preset**.
+Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade preset**.
 
-[Download.](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=sharing) Launch your game using the CoA64.exe
+---
 
-**Important:** Please open Config.wtf and adjust the resolution and refresh rate to match your monitor's settings. Adjust UI Scale to what you like
+## 📥 Download & Installation
 
-if you get low fps, try CTRL+F7 in-game and turn down settings
+**[Download](https://drive.google.com/drive/folders/1Nm4fZt_aUcGdi0KGaGX7PX6K1swsf2m3?usp=sharing)**
 
-Holes in ground have been fixed, please re-download!
+1. Download and extract the mod pack.
+2. Move the included files into your Conquest of Azeroth client folder.
+3. Launch the game using **`CoA64.exe`**.
 
-### How to Bypass the Google Drive Download Limit
+> [!IMPORTANT]
+> **First-Time Setup**
+> - Open `Config.wtf` and adjust the **resolution and refresh rate** to match your monitor.
+> - Adjust the in-game UI scale to your preference.
+> - Experiencing low FPS? Press **CTRL + F7** in-game to open LuxVelum and lower its settings.
+
+### 🔄 Latest Update
+
+**Fixed:** Holes in the ground and missing terrain have been resolved. Please re-download if you're using an older version!
+
+---
+
+## ⚠️ Compatibility Notice
+
+**Fully supported on Conquest of Azeroth Core only.**
+
+Conquest Reborn, ArdenWoW, and Grimfall currently detect modified clients. However, the HD patches, LuxVelum, ReShade, and other enhancements can still be used with the appropriate adjustments.
+
+**[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
+
+---
+
+<details>
+<summary><b>💡 Google Drive Download Limit? Click Here</b></summary>
 
 If Google Drive reports that the download quota has been exceeded:
 
@@ -22,13 +48,9 @@ If Google Drive reports that the download quota has been exceeded:
 
 This workaround may help when Google Drive restricts direct downloads.
 
- ### ⚠️ Compatibility Notice
+</details>
 
-**Fully supported on Conquest of AzerothCore only.**
-
-**Conquest Reborn, ArdenWoW, and Grimfall** currently detect modified clients. However, all HD patches, LuxVelum, ReShade, and other enhancements can still be used by renaming the patches.
-
-**[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
+---
 
 ## **📸 Screenshots**
 
