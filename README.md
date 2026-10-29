@@ -16,7 +16,7 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 
 ## **📸 Screenshots / Comparisons**
 
-*[Insert screenshots here]*
+*https://imgur.com/4C7snTU*
 
 ---
 
