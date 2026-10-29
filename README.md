@@ -6,7 +6,7 @@ This mod pack combines numerous visual upgrades into one complete package, along
 
 The goal is to dramatically improve the game's visual fidelity while preserving the original World of Warcraft art style.
 
-[Download.](https://drive.google.com/drive/folders/1Nm4fZt_aUcGdi0KGaGX7PX6K1swsf2m3?usp=sharing) Launch your game using the CoA64.exe
+[Download.](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=sharing) Launch your game using the CoA64.exe
 
  ### ⚠️ Compatibility Notice
 
@@ -92,7 +92,7 @@ In addition to the HD patches, the download includes several additional enhancem
 ---
 
 ## 📥 Installation
-1. Download and extract the **[Ultra-HD Mod Pack](https://drive.google.com/drive/folders/1Nm4fZt_aUcGdi0KGaGX7PX6K1swsf2m3?usp=sharing)**.
+1. Download and extract the **[Ultra-HD Mod Pack](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=sharing)**.
 2. Move the included files into your **Conquest of Azeroth client folder**.
 3. Launch your game using the **CoA64.exe**
 
