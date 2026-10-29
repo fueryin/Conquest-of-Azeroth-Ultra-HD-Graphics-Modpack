@@ -1,6 +1,6 @@
 # 🧩 Ultra-HD Patch Compatibility Guide
 
-This guide is for players using **Conquest Reborn, ArdenWoW, Grimfall, or other WoW 3.3.5a servers**.
+This guide is for players using **Conquest Reborn, ArdenWoW, Grimfall, or other custom WoW 3.3.5a servers**.
 
 ## 📁 Step 1 – Rename HD Patches
 
