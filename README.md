@@ -125,26 +125,6 @@ In addition to the HD patches, the download includes several additional enhancem
 - Blood Splats on Critical Hits – Adds blood splatter effects on-screen when landing critical strikes.
 - Dance Music – Adds music when using dance emotes.
 
-
----
-
-## 📥 Installation
-1. Download and extract the **[Ultra-HD Mod Pack](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=sharing)**.
-2. Move the included files into your **Conquest of Azeroth client folder**.
-3. Launch your game using the **CoA64.exe**
-
-
-
-### 💡 How to Bypass the Google Drive Download Limit
-
-If Google Drive reports that the download quota has been exceeded:
-
-1. Add the file as a shortcut to your Google Drive.
-2. Create a new folder in your Drive and move the shortcut into it.
-3. Download the folder as a ZIP archive.
-
-This workaround may help when Google Drive restricts direct downloads.
-
 ---
 
 ## 🎖️ Credits
