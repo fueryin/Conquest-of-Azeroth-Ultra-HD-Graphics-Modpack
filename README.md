@@ -17,13 +17,15 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 ## **📸 Screenshots / Comparisons**
 
 <p align="center">
-  <img src="https://i.imgur.com/sTkOJ0Y.png" width="19%" />
-  <img src="https://i.imgur.com/4C7snTU.png" width="19%" />
-  <img src="https://i.imgur.com/Eti67I5.png" width="19%" />
-  <img src="https://i.imgur.com/EWj1ZkG.png" width="19%" />
-  <img src="https://i.imgur.com/lKdya43.png" width="19%" />
+  <img src="https://i.imgur.com/sTkOJ0Y.png" width="32%" />
+  <img src="https://i.imgur.com/4C7snTU.png" width="32%" />
+  <img src="https://i.imgur.com/Eti67I5.png" width="32%" />
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/EWj1ZkG.png" width="32%" />
+  <img src="https://i.imgur.com/lKdya43.png" width="32%" />
+</p>
 ---
 
 ## 🧩 Patch Loadout
