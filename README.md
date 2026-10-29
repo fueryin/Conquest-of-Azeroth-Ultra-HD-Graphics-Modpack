@@ -34,8 +34,6 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
 
 **Fixed:** Holes in the ground and missing terrain have been resolved. Please re-download if you're using an older version!
 
----
-
 <details>
 <summary><b>💡 Google Drive Download Limit? Click Here</b></summary>
 
