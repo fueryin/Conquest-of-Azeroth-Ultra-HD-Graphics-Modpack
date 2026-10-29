@@ -4,8 +4,6 @@ A complete **Ultra-HD graphics and audio overhaul** for **Ascension: Conquest of
 
 This mod pack combines numerous visual upgrades into one complete package, alongside a **custom 64-bit Conquest of Azeroth client**, **LuxVelum**, and my personal **ReShade preset**.
 
-**If you notice any holes in the ground, please re-download the latest version. This issue has been fixed!**
-
 [Download.](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=sharing) Launch your game using the CoA64.exe
 
 **Important:** Please open Config.wtf and adjust the resolution and refresh rate to match your monitor's settings. Adjust UI Scale to what you like
