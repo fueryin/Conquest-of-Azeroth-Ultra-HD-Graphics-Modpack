@@ -6,7 +6,7 @@ This mod pack combines numerous visual upgrades into one complete package, along
 
 The goal is to dramatically improve the game's visual fidelity while preserving the original World of Warcraft art style.
 
-Download: https://drive.google.com/drive/folders/1Nm4fZt_aUcGdi0KGaGX7PX6K1swsf2m3?usp=sharing
+**Download:** https://drive.google.com/drive/folders/1Nm4fZt_aUcGdi0KGaGX7PX6K1swsf2m3?usp=sharing
 
  ### ⚠️ Compatibility Notice
 
