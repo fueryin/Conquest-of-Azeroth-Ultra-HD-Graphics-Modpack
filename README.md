@@ -12,10 +12,6 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 
 **Conquest Reborn, ArdenWoW, and Grimfall** currently have modified-client detection systems that prevent the included 64-bit client from working.
 
-However, **you can still use the HD patches and ReShade** on these servers with their original clients. You'll just need to rename the patches to match their required load order.
-
-**📖 [HD Patch Compatibility & Renaming Guide](INSERT LINK)**
-
 **📸 Screenshots / Comparisons**
 
 *[Insert screenshots here]*
