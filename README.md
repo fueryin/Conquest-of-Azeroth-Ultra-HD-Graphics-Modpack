@@ -58,12 +58,14 @@ In addition to the HD patches, the download includes several additional enhancem
 - Forever Fog enhancements.
 - Improved environmental lighting.
 - Enhanced water rendering.
+- Press CTRL+F7 to configure in-game
 
 
 **🎨 Custom ReShade Preset**
 
 - My personal ReShade configuration, tuned for this overhaul.
 - Improved visual clarity, contrast, colors, and overall presentation.
+- Press HOME to configure in-game
 
 **⚙️ Custom Config.wtf – Maximum Graphics**
 
