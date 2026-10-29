@@ -6,6 +6,16 @@ This mod pack combines numerous visual upgrades into one complete package, along
 
 The goal is to dramatically improve the game's visual fidelity while preserving the original World of Warcraft art style.
 
+## ⚠️ Compatibility Notice
+
+**This Ultra-HD Mod Pack is currently fully compatible ONLY with Conquest of Azeroth Core.**
+
+**Conquest Reborn, ArdenWoW, and Grimfall** currently have modified-client detection systems that prevent the included 64-bit client from working.
+
+However, **you can still use the HD patches and ReShade** on these servers with their original clients. You'll just need to rename the patches to match their required load order.
+
+**📖 [HD Patch Compatibility & Renaming Guide](INSERT LINK)**
+
 **📸 Screenshots / Comparisons**
 
 *[Insert screenshots here]*
@@ -25,7 +35,6 @@ patch-ZZA.MPQ – Enhanced Shaders & Fonts
 patch-ZZB.MPQ – HD Buildings & Structures
 patch-ZZD.MPQ – HD Doodads & World Objects
 patch-ZZE.MPQ – HD Environment & Terrain
-patch-ZZN.MPQ – Darker Nights
 patch-ZZU.MPQ – Upright Orc Models
 patch-ZZY.MPQ – Retail Cursor Icons
 patch-ZZZ.MPQ – Enhanced Blood Splatters
