@@ -26,7 +26,6 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
   <img src="https://i.imgur.com/EWj1ZkG.png" width="32%" />
   <img src="https://i.imgur.com/lKdya43.png" width="32%" />
 </p>
----
 
 ## 🧩 Patch Loadout
 
