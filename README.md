@@ -16,8 +16,6 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
   <img src="https://i.imgur.com/lKdya43.png" width="32%" />
 </p>
 
----
-
 ## 📥 Download & Installation
 
 **[Download](https://drive.google.com/drive/folders/1Nm4fZt_aUcGdi0KGaGX7PX6K1swsf2m3?usp=sharing)**
