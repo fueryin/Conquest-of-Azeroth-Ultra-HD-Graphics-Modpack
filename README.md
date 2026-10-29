@@ -7,6 +7,7 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
 
 ---
 
+
 ## 📥 Download & Installation
 
 **[Download](https://drive.google.com/drive/folders/1Nm4fZt_aUcGdi0KGaGX7PX6K1swsf2m3?usp=sharing)**
@@ -17,23 +18,13 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
 
 > [!IMPORTANT]
 > **First-Time Setup**
-> - Open `Config.wtf` and adjust the **resolution and refresh rate** to match your monitor.
+> - Open `Config.wtf` and adjust the resolution and refresh rate to match your monitor.
 > - Adjust the in-game UI scale to your preference.
-> - Experiencing low FPS? Press **CTRL + F7** in-game to open LuxVelum and lower its settings.
+> - Experiencing low FPS? Press **CTRL + F7** in-game and lower LuxVelum settings.
 
 ### 🔄 Latest Update
 
 **Fixed:** Holes in the ground and missing terrain have been resolved. Please re-download if you're using an older version!
-
----
-
-## ⚠️ Compatibility Notice
-
-**Fully supported on Conquest of Azeroth Core only.**
-
-Conquest Reborn, ArdenWoW, and Grimfall currently detect modified clients. However, the HD patches, LuxVelum, ReShade, and other enhancements can still be used with the appropriate adjustments.
-
-**[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
 
 ---
 
@@ -49,6 +40,16 @@ If Google Drive reports that the download quota has been exceeded:
 This workaround may help when Google Drive restricts direct downloads.
 
 </details>
+
+---
+
+## ⚠️ Compatibility Notice
+
+**Fully supported on Conquest of Azeroth Core only.**
+
+Conquest Reborn, ArdenWoW, and Grimfall currently detect modified clients. However, the HD patches, LuxVelum, ReShade, and other enhancements can still be used with the appropriate adjustments.
+
+**[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
 
 ---
 
