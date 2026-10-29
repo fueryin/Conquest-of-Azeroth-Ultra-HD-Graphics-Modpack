@@ -12,26 +12,12 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 
 ---
 
-## ⚠️ Important Information
-
-**The included 64-bit Conquest of Azeroth client is REQUIRED.**
-
-The original 32-bit client has significant memory limitations, especially when running large HD texture packs and graphical modifications.
-
-The included 64-bit client removes the 4 GB address-space limitation and allows significantly greater memory usage to accommodate this overhaul.
-
-**You must launch the game using the included 64-bit executable.**
-
-**Note:** Existing 32-bit DLL modifications will not work with the 64-bit client
-
----
-
 ## 🧩 Patch Loadout
 
 The following patches are included in the overhaul:
 
 ```text
-patch-AAC.MPQ – HD Creatures
+patch-AAC.MPQ – HD Creatures & Models
 patch-AAP.MPQ – Enhanced Spell Particle Effects
 patch-AAS.MPQ – Upgraded Sounds & Music
 
@@ -78,56 +64,9 @@ In addition to the HD patches, the download includes several additional enhancem
 
 ## 📥 Installation
 
-1. Download and extract the Ultra-HD Mod Pack.
-2. Locate your Ascension: Conquest of Azeroth installation folder.
-3. Back up your original game files before proceeding.
-4. Copy the included HD `.MPQ` patches into your client's `Data` folder.
-5. Install the included 64-bit client into your Conquest of Azeroth directory, preserving the supplied folder structure.
-6. Copy the included LuxVelum files into their corresponding locations.
-7. Launch the game using the **64-bit Conquest of Azeroth executable**.
+1. Download and extract the **Ultra-HD Mod Pack:**
+2. Move the included files into your **Conquest of Azeroth client folder**.
 
-**Important:** Make sure you are launching the included 64-bit client rather than the original 32-bit executable.
-
-If you already have custom patches installed, be aware that modifications affecting the same assets may conflict depending on patch load order.
-
----
-
-## 🎨 ReShade Setup (Optional)
-
-For the full Ultra-HD visual experience, I recommend using my included ReShade preset.
-
-**ReShade Download:** https://reshade.me/
-
-**Installation:**
-
-1. Download ReShade from the official website.
-2. Run the installer and select the **included 64-bit Conquest of Azeroth executable**.
-3. Choose the correct rendering API:
-   - **Vulkan**
-4. Install the shader packages required by the preset.
-5. Copy my included ReShade preset and any accompanying shader or texture files to the appropriate ReShade locations.
-6. Launch Conquest of Azeroth.
-7. Press **HOME** to open the ReShade interface.
-8. Select my **Ultra-HD ReShade Preset** from the preset dropdown.
-9. Allow the shaders to compile and enjoy the enhanced visuals.
-
-**Tip:** ReShade can be adjusted to your personal preference. Certain effects may have a greater impact on performance than others.
-
----
-
-## 🔗 Download
-
-**Ultra-HD Mod Pack:** [Download Link]
-
-**GitHub Repository:** [GitHub Link]
-
-The download includes:
-
-- Complete Ultra-HD patch collection.
-- Required 64-bit Conquest of Azeroth client.
-- LuxVelum graphical enhancements.
-- Custom ReShade preset.
-- Installation instructions.
 
 ### 💡 How to Bypass the Google Drive Download Limit
 
@@ -143,22 +82,4 @@ This workaround may help when Google Drive restricts direct downloads.
 
 ## 🎖️ Credits
 
-Huge thanks to the original creators and contributors behind the various HD models, textures, graphical modifications, and tools that make this overhaul possible.
-
-This project brings these improvements together into a single mod pack for the Conquest of Azeroth community.
-
-**Additional Credits:**
-- LuxVelum and its contributors.
-- ReShade and its developers.
-- Original HD patch and asset creators.
-- Contributors to the 64-bit Conquest of Azeroth client.
-
----
-
-**⚠️ IMPORTANT**
-
-**THIS MOD PACK IS DESIGNED FOR ASCENSION: CONQUEST OF AZEROTH AND REQUIRES THE INCLUDED 64-BIT CLIENT.**
-
-**BACK UP YOUR ORIGINAL FILES BEFORE INSTALLATION.**
-
-**THIS IS A COMMUNITY-MADE GRAPHICAL OVERHAUL AND IS NOT AN OFFICIAL ASCENSION RELEASE.**
+Special thanks to **LuxVelum** and **Project Reforged** for their work and contributions to the World of Warcraft modding community.
