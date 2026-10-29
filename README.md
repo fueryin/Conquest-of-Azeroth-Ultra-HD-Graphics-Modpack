@@ -8,9 +8,13 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 
 ## ⚠️ Compatibility Notice
 
-**This Ultra-HD Mod Pack is currently fully compatible ONLY with Conquest of Azeroth Core.**
+**Fully supported on Conquest of Azeroth Core only.**
 
-**Conquest Reborn, ArdenWoW, and Grimfall** currently have modified-client detection systems that prevent the included 64-bit client from working.
+Conquest Reborn, ArdenWoW, and Grimfall currently detect modified clients. However, all HD patches, LuxVelum, ReShade, and other enhancements can still be used by renaming the patches.
+
+This method should also work on other **3.3.5a servers**, but may introduce bugs due to patch load order. **I will not provide support for these issues.**
+
+**📖 [HD Patch Compatibility & Renaming Guide](INSERT LINK)**
 
 **📸 Screenshots / Comparisons**
 
