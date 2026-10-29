@@ -6,7 +6,7 @@ This mod pack combines numerous visual upgrades into one complete package, along
 
 The goal is to dramatically improve the game's visual fidelity while preserving the original World of Warcraft art style.
 
-## ⚠️ Compatibility Notice
+# ⚠️ Compatibility Notice
 
 **Fully supported on Conquest of Azeroth Core only.**
 
@@ -14,7 +14,7 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 
 **[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
 
-**📸 Screenshots / Comparisons**
+## **📸 Screenshots / Comparisons**
 
 *[Insert screenshots here]*
 
