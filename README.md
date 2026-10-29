@@ -89,7 +89,8 @@ Dance Music – Adds music when using dance emotes.
 ## 📥 Installation
 1. Download and extract the **[Ultra-HD Mod Pack](https://drive.google.com/drive/folders/1Nm4fZt_aUcGdi0KGaGX7PX6K1swsf2m3?usp=sharing)**.
 2. Move the included files into your **Conquest of Azeroth client folder**.
-3. Launch your game using the CoA64.exe
+3. Launch your game using the **CoA64.exe**
+
 
 
 ### 💡 How to Bypass the Google Drive Download Limit
