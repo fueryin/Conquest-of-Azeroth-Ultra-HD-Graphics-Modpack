@@ -1,0 +1,39 @@
+# 🧩 Ultra-HD Patch Compatibility Guide
+
+This guide is for players using **Conquest Reborn, ArdenWoW, Grimfall, or other WoW 3.3.5a servers**.
+
+## 📁 Step 1 – Rename HD Patches
+
+Navigate to your client's `Data` folder and rename the following patches:
+
+- `patch-ZZB.MPQ` → `patch-AAB.MPQ`
+- `patch-ZZD.MPQ` → `patch-AAD.MPQ`
+- `patch-ZZE.MPQ` → `patch-AAE.MPQ`
+
+All other patches can remain unchanged.
+
+---
+
+## 🌄 Step 2 – Install 32-Bit LuxVelum
+
+Since you'll be using your server's original 32-bit client, you'll need the **32-bit version of LuxVelum**.
+
+**🔗 [Download LuxVelum 32-Bit](https://github.com/Raz0r1337/LuxVelum/releases/tag/build-1)**
+
+Download the 32-bit release and install it into your WoW client folder.
+
+---
+
+## 🎨 Step 3 – Additional Enhancements
+
+You can continue using the included ReShade preset, `Config.wtf`, and additional add-ons.
+
+**⚙️ Config.wtf:** Remember to adjust your resolution and refresh rate to match your monitor. The included configuration is set to 4K.
+
+---
+
+## ⚠️ Compatibility Disclaimer
+
+Different servers may use different patch load orders, potentially causing graphical bugs or other issues.
+
+**These modifications are provided as-is. I will not provide support for compatibility issues on other servers.**
