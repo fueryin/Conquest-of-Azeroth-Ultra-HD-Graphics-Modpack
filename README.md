@@ -16,7 +16,7 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 
 **[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
 
-## **📸 Screenshots / Comparisons**
+## **📸 Screenshots**
 
 <p align="center">
   <img src="https://i.imgur.com/sTkOJ0Y.png" width="32%" />
