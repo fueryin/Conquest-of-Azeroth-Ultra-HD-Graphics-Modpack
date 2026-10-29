@@ -26,8 +26,7 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
 
 > [!IMPORTANT]
 > **First-Time Setup**
-> - Open `Config.wtf` and adjust the resolution and refresh rate to match your monitor.
-> - Adjust the in-game UI scale to your preference.
+> - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
 > - Experiencing low FPS? Press **CTRL + F7** in-game and lower LuxVelum settings.
 
 ### 🔄 Latest Update
