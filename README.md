@@ -8,7 +8,7 @@ This mod pack combines numerous visual upgrades into one complete package, along
 
 **Important:** Please open Config.wtf and adjust the resolution and refresh rate to match your monitor's settings. Adjust UI Scale to what you like
 
-if you get low fps, try CTRL+F7 and turn down settings
+if you get low fps, try CTRL+F7 in-game and turn down settings
 
 Holes in ground have been fixed, please re-download!
 
