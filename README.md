@@ -5,6 +5,16 @@ A complete Ultra-HD graphics and audio overhaul for **Ascension: Conquest of Aze
 
 Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade preset**.
 
+<p align="center">
+  <img src="https://i.imgur.com/sTkOJ0Y.png" width="32%" />
+  <img src="https://i.imgur.com/4C7snTU.png" width="32%" />
+  <img src="https://i.imgur.com/Eti67I5.png" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/EWj1ZkG.png" width="32%" />
+  <img src="https://i.imgur.com/lKdya43.png" width="32%" />
+</p>
 ---
 
 
@@ -52,19 +62,6 @@ Conquest Reborn, ArdenWoW, and Grimfall currently detect modified clients. Howev
 **[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
 
 ---
-
-## **📸 Screenshots**
-
-<p align="center">
-  <img src="https://i.imgur.com/sTkOJ0Y.png" width="32%" />
-  <img src="https://i.imgur.com/4C7snTU.png" width="32%" />
-  <img src="https://i.imgur.com/Eti67I5.png" width="32%" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/EWj1ZkG.png" width="32%" />
-  <img src="https://i.imgur.com/lKdya43.png" width="32%" />
-</p>
 
 ## 🧩 Patch Loadout
 
