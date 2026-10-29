@@ -10,7 +10,7 @@ The goal is to dramatically improve the game's visual fidelity while preserving 
 
 **Important:** Please open Config.wtf and adjust the resolution and refresh rate to match your monitor's settings. Adjust UI Scale to what you like
 
-### 💡 How to Bypass the Google Drive Download Limit
+### How to Bypass the Google Drive Download Limit
 
 If Google Drive reports that the download quota has been exceeded:
 
