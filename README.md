@@ -27,7 +27,8 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
 > [!IMPORTANT]
 > **First-Time Setup**
 > - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
-> - Experiencing low FPS? Press **CTRL + F7** in-game and lower LuxVelum settings.
+> - Low FPS? Press **CTRL + F7** in-game and lower LuxVelum settings. Alternatively, Turn off projected textures.
+> - Giant cursor? Turn off hardware cursor
 
 ### 🔄 Latest Update
 
