@@ -24,16 +24,6 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
 2. Move the included files into your Conquest of Azeroth client folder.
 3. Launch the game using **`CoA64.exe`**.
 
-> [!IMPORTANT]
-> **First-Time Setup**
-> - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
-> - Low FPS? Press **CTRL + F7** in-game and lower LuxVelum settings. Alternatively, Turn off projected textures.
-> - Giant cursor? Turn off hardware cursor
-
-### 🔄 Latest Update
-
-**Fixed:** Holes in the ground and missing terrain have been resolved. Please re-download if you're using an older version!
-
 <details>
 <summary><b>💡 Google Drive Download Limit? Click Here</b></summary>
 
@@ -46,6 +36,16 @@ If Google Drive reports that the download quota has been exceeded:
 This workaround may help when Google Drive restricts direct downloads.
 
 </details>
+
+> [!IMPORTANT]
+> **First-Time Setup**
+> - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
+> - Low FPS? Press **CTRL + F7** in-game and lower LuxVelum settings. Alternatively, Turn off projected textures.
+> - Giant cursor? Turn off hardware cursor
+
+### 🔄 Latest Update
+
+**Fixed:** Holes in the ground and missing terrain have been resolved. Please re-download if you're using an older version!
 
 ## ⚠️ Compatibility Notice
 
