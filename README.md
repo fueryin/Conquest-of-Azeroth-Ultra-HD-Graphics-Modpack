@@ -51,9 +51,13 @@ This workaround may help when Google Drive restricts direct downloads.
 
 **Fully supported on Conquest of Azeroth Core only.**
 
-Conquest Reborn, ArdenWoW, and Grimfall currently detect modified clients. However, the HD patches, LuxVelum, ReShade, and other enhancements can still be used with the appropriate adjustments.
+Conquest Reborn, ArdenWoW, Grimfall, and other custom 3.3.5a servers that detect modified clients may block the custom client. However, the HD patches, LuxVelum, ReShade, and other enhancements can still be used with the appropriate adjustments.
 
 **[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
+
+Want these graphics on a standard **3.3.5a or 1.12 client** instead? 
+
+**([Click here!](https://projectreforged.github.io/))**
 
 ---
 
