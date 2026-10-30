@@ -45,7 +45,7 @@ This workaround may help when Google Drive restricts direct downloads.
 
 ---
 
-## ⚠️ Compatibility Notice
+### ⚠️ Compatibility Notice
 
 **Fully supported on Conquest of Azeroth Core only.**
 
