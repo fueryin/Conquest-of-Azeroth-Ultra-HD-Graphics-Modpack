@@ -119,7 +119,3 @@ In addition to the HD patches, the download includes several additional enhancem
 
 - Blood Splats on Critical Hits – Adds blood splatter effects on-screen when landing critical strikes.
 - Dance Music – Adds music when using dance emotes.
-
----
-
-If you would like these additions to a normal 3.3.5a client, please see: https://projectreforged.github.io/
