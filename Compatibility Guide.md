@@ -1,6 +1,6 @@
 # 🧩 Ultra-HD Patch Compatibility Guide
 
-This guide is for players using **Conquest Reborn, ArdenWoW, Grimfall, or other custom WoW 3.3.5a servers**.
+This guide is for players using **Conquest Reborn, ArdenWoW, Grimfall, or other custom WoW 3.3.5a servers that detect modified clients**.
 
 You will encounter more bugs. Limitations of a 32bit client. 
 
@@ -13,6 +13,7 @@ Navigate to your client's `Data` folder and rename the following patches:
 - `Delete patch-ZZD`
 
 All other patches can remain unchanged.
+Launch using your default x32 client
 
 ---
 
