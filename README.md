@@ -40,8 +40,8 @@ This workaround may help when Google Drive restricts direct downloads.
 > [!IMPORTANT]
 > **First-Time Setup**
 > - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
-> - Low FPS? Press **CTRL + F7** in-game and lower LuxVelum settings. Alternatively, Turn off projected textures.
-> - Giant cursor? Turn off hardware cursor
+
+[**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues)
 
 ### 🔄 Latest Update
 
