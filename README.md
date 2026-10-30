@@ -31,7 +31,7 @@ If Google Drive reports that the download quota has been exceeded:
 
 1. Add the file as a shortcut to your Google Drive.
 2. Create a new folder in your Drive and move the shortcut into it.
-3. Download YOUR folder as a ZIP archive.
+3. Download **YOUR folder** as a ZIP archive.
 
 This workaround may help when Google Drive restricts direct downloads.
 
