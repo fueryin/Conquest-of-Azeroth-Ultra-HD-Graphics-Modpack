@@ -2,13 +2,15 @@
 
 This guide is for players using **Conquest Reborn, ArdenWoW, Grimfall, or other custom WoW 3.3.5a servers**.
 
+You will encounter more bugs. Limitations of a 32bit client. 
+
 ## 📁 Step 1 – Rename HD Patches
 
 Navigate to your client's `Data` folder and rename the following patches:
 
 - `patch-ZZB.MPQ` → `patch-AAB.MPQ`
-- `patch-ZZD.MPQ` → `patch-AAD.MPQ`
 - `patch-ZZE.MPQ` → `patch-AAE.MPQ`
+- `Delete patch-ZZD`
 
 All other patches can remain unchanged.
 
