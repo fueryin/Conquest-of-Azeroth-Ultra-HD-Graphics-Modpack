@@ -57,7 +57,7 @@ Conquest Reborn, ArdenWoW, Grimfall, and other custom 3.3.5a servers that detect
 
 Want these graphics on a standard 3.3.5a or 1.12 client instead? 
 
-**[Click here!](https://projectreforged.github.io/))**
+**[Click here!](https://projectreforged.github.io/)**
 
 ---
 
