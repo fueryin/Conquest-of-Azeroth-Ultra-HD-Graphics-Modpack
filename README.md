@@ -55,9 +55,9 @@ Conquest Reborn, ArdenWoW, Grimfall, and other custom 3.3.5a servers that detect
 
 **[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
 
-Want these graphics on a standard **3.3.5a or 1.12 client** instead? 
+Want these graphics on a standard 3.3.5a or 1.12 client instead? 
 
-**([Click here!](https://projectreforged.github.io/))**
+**[Click here!](https://projectreforged.github.io/))**
 
 ---
 
