@@ -24,7 +24,7 @@ Since you'll be using your server's original 32-bit client, you'll need the **32
 
 **🔗 [Download LuxVelum 32-Bit](https://github.com/Raz0r1337/LuxVelum/releases/tag/build-1)**
 
-Download the 32-bit release and install it into your WoW client folder.
+Download the 32-bit Version DLL release and install it into your WoW client folder.
 
 ---
 
