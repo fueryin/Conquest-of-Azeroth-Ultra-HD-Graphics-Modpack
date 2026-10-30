@@ -108,15 +108,14 @@ In addition to the HD patches, the download includes several additional enhancem
 - Improved visual clarity, contrast, colors, and overall presentation.
 - Press HOME to configure in-game
 
-**⚙️ Custom Config.wtf – Maximum Graphics**
+⚙️ **Custom Config.wtf – Maximum Graphics**
 
 - Preconfigured for the best possible visual quality, including enhanced draw distances, environmental detail, shadows, and graphical effects.
 - Included for those who want to get the most out of the Ultra-HD overhaul without manually adjusting console variables.
 
 **Important:**
-
-- Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
-- **Avoid changing graphics settings in-game**, as doing so may reset some of the custom values. For best results, make all graphics adjustments directly in `Config.wtf`.
+- Open `Config.wtf` and adjust the resolution, refresh rate, and UI scale to your preference.
+- Avoid changing graphics settings in-game, as doing so may reset some of the custom values. For best results, make all graphics adjustments directly in `Config.wtf`.
 
 **🎵 Additional Add-ons**
 
