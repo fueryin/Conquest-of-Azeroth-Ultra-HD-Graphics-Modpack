@@ -13,6 +13,7 @@ Navigate to your client's `Data` folder and rename the following patches:
 - `Delete patch-ZZD`
 
 All other patches can remain unchanged.
+
 Launch using your default x32 client
 
 ---
