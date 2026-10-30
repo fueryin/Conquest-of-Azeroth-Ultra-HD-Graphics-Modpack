@@ -43,9 +43,7 @@ This workaround may help when Google Drive restricts direct downloads.
 
 [**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues)
 
-### 🔄 Latest Update
-
-**Fixed:** Holes in the ground and missing terrain have been resolved. Please re-download if you're using an older version!
+---
 
 ## ⚠️ Compatibility Notice
 
