@@ -118,8 +118,4 @@ In addition to the HD patches, the download includes several additional enhancem
 
 ---
 
-## 🎖️ Credits
-
-Special thanks to **LuxVelum** and **Project Reforged** for their work and contributions to the World of Warcraft modding community.
-
 If you would like these additions to a normal 3.3.5a client, please see: https://projectreforged.github.io/
