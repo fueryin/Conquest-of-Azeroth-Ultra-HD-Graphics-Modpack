@@ -36,7 +36,7 @@ Download the 32-bit Version DLL release and install it into your WoW client fold
 
 You can continue using the included ReShade preset, `Config.wtf`, and additional add-ons.
 
-**⚙️ Config.wtf:** Remember to adjust your resolution and refresh rate to match your monitor. The included configuration is set to 4K.
+**⚙️ Config.wtf:** Remember to adjust your resolution and refresh rate to match your monitor.
 
 ---
 
