@@ -20,13 +20,13 @@ Launch using your default x32 client
 
 ## 🌄 Step 2 – Install 32-Bit LuxVelum
 
-Since you'll be using your server's original 32-bit client, you'll need the **32-bit version DLL of LuxVelum**.
+Since you'll be using your server's original 32-bit client, you'll need the **32-bit Version DLL of LuxVelum**.
 
 **🔗 [Download LuxVelum 32-Bit](https://github.com/Raz0r1337/LuxVelum/releases/tag/build-1)**
 
 Download the 32-bit Version DLL release and install it into your WoW client folder.
 
-**AMD GPU Users:** Open Config.wtf and set the following value:
+**AMD GPU Users:** Open `Config.wtf` and set the following value:
 
 `SET gxMultisampleQuality "0"`
 
