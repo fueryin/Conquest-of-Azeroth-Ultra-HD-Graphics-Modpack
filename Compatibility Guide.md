@@ -26,9 +26,7 @@ Since you'll be using your server's original 32-bit client, you'll need the **32
 
 Download the 32-bit Version DLL release and install it into your WoW client folder.
 
-**AMD GPU Users:** Open `Config.wtf` and set the following value:
-
-`SET gxMultisampleQuality "0"`
+**AMD GPU Users:** Open `Luxvelum.ini` and set `multisampling=0`
 
 ---
 
