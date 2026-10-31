@@ -98,7 +98,7 @@ In addition to the HD patches, the download includes several additional enhancem
 - Improves visual clarity, contrast, colors, and overall presentation.
 - Press HOME to configure in-game
 
-⚙️ **Custom Config.wtf – Maximum Graphics**
+⚙️ **Custom Config.wtf**
 
 - Maximized draw distance, environmental detail, shadows, and effects beyond in-game graphics options.
 
