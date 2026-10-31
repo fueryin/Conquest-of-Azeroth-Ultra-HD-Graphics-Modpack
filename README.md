@@ -106,7 +106,7 @@ In addition to the HD patches, the download includes several additional enhancem
 - Open `Config.wtf` and adjust the resolution, refresh rate, and UI scale to your preference.
 - Avoid changing graphics settings in-game; use `Config.wtf` to change graphics.
 - If changed in-game, max FPS resets to 15 and must be adjusted back.
-- You MUST keep Specular Lighting Enabled in graphic settings.
+- You **MUST** keep **Specular Lighting Enabled** in graphic settings.
 
 **🎵 Additional Add-ons**
 
