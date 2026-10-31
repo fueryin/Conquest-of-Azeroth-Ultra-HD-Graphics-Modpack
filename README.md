@@ -15,7 +15,21 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
   <img src="https://i.imgur.com/EWj1ZkG.png" width="32%" />
   <img src="https://i.imgur.com/lKdya43.png" width="32%" />
 </p>
+---
 
+### ⚠️ Compatibility Notice
+
+**Fully supported on Conquest of Azeroth Core only.**
+
+Conquest Reborn, ArdenWoW, Grimfall, and other custom 3.3.5a servers that detect modified clients may block the x64 client. However, the enhancements can still be used with the appropriate adjustments.
+
+**[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
+
+Want these graphics on a standard 3.3.5a or 1.12 client instead? 
+
+**[Click here!](https://projectreforged.github.io/)**
+
+---
 ## 📥 Download & Installation
 
 **[Download](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=drivesdk)**
@@ -42,20 +56,6 @@ This workaround may help when Google Drive restricts direct downloads.
 > - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
 
 [**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues)
-
----
-
-### ⚠️ Compatibility Notice
-
-**Fully supported on Conquest of Azeroth Core only.**
-
-Conquest Reborn, ArdenWoW, Grimfall, and other custom 3.3.5a servers that detect modified clients may block the x64 client. However, the enhancements can still be used with the appropriate adjustments.
-
-**[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
-
-Want these graphics on a standard 3.3.5a or 1.12 client instead? 
-
-**[Click here!](https://projectreforged.github.io/)**
 
 ---
 
