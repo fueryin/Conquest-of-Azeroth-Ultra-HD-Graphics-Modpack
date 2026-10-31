@@ -103,7 +103,7 @@ In addition to the HD patches, the download includes several additional enhancem
 
 ⚙️ **Custom Config.wtf – Maximum Graphics**
 
-- Preconfigured for the best possible visual quality, including enhanced draw distances, environmental detail, shadows, and graphical effects.
+- Maximized draw distance, environmental detail, shadows, and effects beyond in-game graphics options.
 
 **Important:**
 - Open `Config.wtf` and adjust the resolution, refresh rate, and UI scale to your preference.
