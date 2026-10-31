@@ -17,7 +17,7 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
 
 ## 📥 Download & Installation
 
-###**[Download](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=drivesdk)**
+**[Download](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=drivesdk)**
 
 1. Download and extract the mod pack.
 2. Move the included files into your Conquest of Azeroth client folder.
@@ -40,7 +40,7 @@ This workaround may help when Google Drive restricts direct downloads.
 > **First-Time Setup**
 > - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
 
-[**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues?q=is%3Aissue+state%3Aclosed)
+### [**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues?q=is%3Aissue+state%3Aclosed)
 
 ---
 
