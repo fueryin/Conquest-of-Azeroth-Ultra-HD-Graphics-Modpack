@@ -95,7 +95,7 @@ In addition to the HD patches, the download includes several additional enhancem
 
 **🎨 Custom ReShade Preset**
 
-- My personal ReShade configuration, to improve visual clarity, contrast, colors, and overall presentation.
+- Improves visual clarity, contrast, colors, and overall presentation.
 - Press HOME to configure in-game
 
 ⚙️ **Custom Config.wtf – Maximum Graphics**
