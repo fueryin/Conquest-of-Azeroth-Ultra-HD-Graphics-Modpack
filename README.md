@@ -16,8 +16,6 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
   <img src="https://i.imgur.com/lKdya43.png" width="32%" />
 </p>
 
-### [**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues?q=is%3Aissue+state%3Aclosed)
-
 ---
 
 ### ⚠️ Compatibility Notice
@@ -122,6 +120,8 @@ This workaround may help when Google Drive restricts direct downloads.
 > [!IMPORTANT]
 > **First-Time Setup**
 > - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
+
+### [**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues?q=is%3Aissue+state%3Aclosed)
 
 ## 💬 Support
 
