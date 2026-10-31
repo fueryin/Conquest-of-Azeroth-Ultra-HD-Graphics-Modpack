@@ -1,4 +1,3 @@
-
 # 🌌 Ascension: Conquest of Azeroth – Ultra-HD Mod Pack
 
 A complete Ultra-HD graphics and audio overhaul for **Ascension: Conquest of Azeroth**, featuring modernized creature models, high-resolution textures, enhanced spell effects, improved environments, lighting, water, shaders, and more.
@@ -16,6 +15,40 @@ Includes a **custom 64-bit client**, **LuxVelum**, and my personal **ReShade pre
   <img src="https://i.imgur.com/lKdya43.png" width="32%" />
 </p>
 
+## 📥 Download & Installation
+
+**[Download](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=drivesdk)**
+
+1. Download and extract the mod pack.
+2. Move the included files into your Conquest of Azeroth client folder.
+3. Launch the game using **`CoA64.exe`**.
+
+<details>
+<summary><b>💡 Google Drive Download Limit? Click Here</b></summary>
+
+If Google Drive reports that the download quota has been exceeded:
+
+1. Add the file as a shortcut to your Google Drive.
+2. Create a new folder in your Drive and move the shortcut into it.
+3. Download **YOUR folder** as a ZIP archive.
+
+This workaround may help when Google Drive restricts direct downloads.
+
+</details>
+
+### 🎨 Install ReShade
+
+1. **[Download ReShade 6.8.0 (Addon)](https://reshade.me/downloads/ReShade_Setup_6.8.0_Addon.exe)** and run the installer.
+2. Select **CoA64.exe** as the target application.
+3. Set the graphics API to **Vulkan**.
+4. Select **Update ReShade Only** to complete installation.
+
+> [!IMPORTANT]
+> **First-Time Setup**
+> - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
+
+### [**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues?q=is%3Aissue+state%3Aclosed)
+
 ---
 
 ### ⚠️ Compatibility Notice
@@ -26,7 +59,7 @@ Conquest Reborn, ArdenWoW, Grimfall, and other custom 3.3.5a servers that detect
 
 **[HD Patch Compatibility & Renaming Guide](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/blob/CoA-HD-PATCH/Compatibility%20Guide.md)**
 
-Want these graphics on a standard 3.3.5a or 1.12 client instead?
+Want these graphics on a standard 3.3.5a or 1.12 client instead? 
 
 **[Click here!](https://projectreforged.github.io/)**
 
@@ -86,42 +119,6 @@ In addition to the HD patches, the download includes several additional enhancem
 
 - Blood Splats on Critical Hits – Adds blood splatter effects on-screen when landing critical strikes.
 - Dance Music – Adds music when using dance emotes.
-
----
-
-## 📥 Download & Installation
-
-**[Download](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=drivesdk)**
-
-1. Download and extract the mod pack.
-2. Move the included files into your Conquest of Azeroth client folder.
-3. Launch the game using **`CoA64.exe`**.
-
-<details>
-<summary><b>💡 Google Drive Download Limit? Click Here</b></summary>
-
-If Google Drive reports that the download quota has been exceeded:
-
-1. Add the file as a shortcut to your Google Drive.
-2. Create a new folder in your Drive and move the shortcut into it.
-3. Download **YOUR folder** as a ZIP archive.
-
-This workaround may help when Google Drive restricts direct downloads.
-
-</details>
-
-### 🎨 Install ReShade
-
-1. **[Download ReShade 6.8.0 (Addon)](https://reshade.me/downloads/ReShade_Setup_6.8.0_Addon.exe)** and run the installer.
-2. Select **CoA64.exe** as the target application.
-3. Set the graphics API to **Vulkan**.
-4. Select **Update ReShade Only** to complete installation.
-
-> [!IMPORTANT]
-> **First-Time Setup**
-> - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
-
-### [**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues?q=is%3Aissue+state%3Aclosed)
 
 ## 💬 Support
 
