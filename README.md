@@ -77,7 +77,7 @@ patch-ZZY.MPQ – Retail Cursor Icons
 patch-ZZZ.MPQ – Enhanced Blood Splatters
 ```
 
-Any patch can be removed with the Exception of Patch-ZZB, ZZD, & ZZE
+Any patch can be removed, except **patch-ZZB, patch-ZZD, and patch-ZZE**, which must remain together if used.
 
 ---
 
