@@ -40,7 +40,7 @@ This workaround may help when Google Drive restricts direct downloads.
 > **First-Time Setup**
 > - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
 
-[**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues)
+[**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues?q=is%3Aissue+state%3Aclosed)
 
 ---
 
