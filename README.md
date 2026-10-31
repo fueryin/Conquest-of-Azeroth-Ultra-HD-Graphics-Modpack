@@ -1,5 +1,4 @@
-
-## 🌌 Ascension: Conquest of Azeroth – Ultra-HD Mod Pack
+# 🌌 Ascension: Conquest of Azeroth – Ultra-HD Mod Pack
 
 A complete Ultra-HD graphics and audio overhaul for **Ascension: Conquest of Azeroth**, featuring modernized creature models, high-resolution textures, enhanced spell effects, improved environments, lighting, water, shaders, and more.
 
