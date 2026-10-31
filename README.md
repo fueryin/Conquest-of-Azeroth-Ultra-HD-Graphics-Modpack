@@ -45,6 +45,8 @@ This workaround may help when Google Drive restricts direct downloads.
 
 [**Common Problems & Troubleshooting**](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/issues)
 
+---
+
 ### ⚠️ Compatibility Notice
 
 **Fully supported on Conquest of Azeroth Core only.**
