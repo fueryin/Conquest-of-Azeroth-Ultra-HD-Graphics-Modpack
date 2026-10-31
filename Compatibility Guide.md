@@ -32,7 +32,7 @@ Download the 32-bit Version DLL release and install it into your WoW client fold
 
 ## 🎨 Step 3 – Additional Enhancements
 
-You can continue using the included ReShade preset, `Config.wtf`, and additional add-ons.
+You can continue using the included ReShade preset, Config.wtf, and additional add-ons. Simply move d3d9.dll from the included x64 folder to your game's root folder.
 
 **⚙️ Config.wtf:** Remember to adjust your resolution and refresh rate to match your monitor.
 
