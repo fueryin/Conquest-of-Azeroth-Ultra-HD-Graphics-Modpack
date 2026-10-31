@@ -85,8 +85,7 @@ In addition to the HD patches, the download includes several additional enhancem
 **🖥️ 64-Bit Conquest of Azeroth Client (Required)**
 
 - Custom 64-bit client included with the mod pack.
-- Supports significantly more memory than the original 32-bit client.
-- Better suited for extensive HD texture and model replacements.
+- Supports significantly more memory & performance than the original 32-bit client.
 - Required to run this overhaul.
 
 **🌄 LuxVelum**
@@ -95,7 +94,6 @@ In addition to the HD patches, the download includes several additional enhancem
 - Improved environmental lighting.
 - Enhanced water rendering.
 - Press CTRL+F7 to configure in-game
-
 
 **🎨 Custom ReShade Preset**
 
@@ -106,7 +104,6 @@ In addition to the HD patches, the download includes several additional enhancem
 ⚙️ **Custom Config.wtf – Maximum Graphics**
 
 - Preconfigured for the best possible visual quality, including enhanced draw distances, environmental detail, shadows, and graphical effects.
-- Included for those who want to get the most out of the Ultra-HD overhaul without manually adjusting console variables.
 
 **Important:**
 - Open `Config.wtf` and adjust the resolution, refresh rate, and UI scale to your preference.
