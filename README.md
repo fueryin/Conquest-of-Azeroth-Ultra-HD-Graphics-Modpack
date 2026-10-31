@@ -36,6 +36,13 @@ This workaround may help when Google Drive restricts direct downloads.
 
 </details>
 
+### 🎨 Install ReShade
+
+1. **[Download ReShade 6.8.0 (Addon)](https://reshade.me/downloads/ReShade_Setup_6.8.0_Addon.exe)** and run the installer.
+2. Select **CoA64.exe** as the target application.
+3. Set the graphics API to **Vulkan**.
+4. Select **Update ReShade Only** to complete installation.
+
 > [!IMPORTANT]
 > **First-Time Setup**
 > - Open `Config.wtf` and adjust the **resolution, refresh rate, and UI scale** to your preference.
