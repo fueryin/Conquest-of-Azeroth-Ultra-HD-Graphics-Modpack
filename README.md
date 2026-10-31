@@ -85,7 +85,7 @@ In addition to the HD patches, the download includes several additional enhancem
 **🖥️ 64-Bit Conquest of Azeroth Client (Required)**
 
 - Custom 64-bit client included with the mod pack.
-- Supports significantly more memory & performance than the original 32-bit client.
+- Supports significantly more performance than the original 32-bit client.
 - Required to run this overhaul.
 
 **🌄 LuxVelum**
