@@ -104,7 +104,8 @@ In addition to the HD patches, the download includes several additional enhancem
 
 **Important:**
 - Open `Config.wtf` and adjust the resolution, refresh rate, and UI scale to your preference.
-- Avoid changing graphics settings in-game; use `Config.wtf` to change graphics. If changed in-game, max FPS resets to 15 and must be adjusted back.
+- Avoid changing graphics settings in-game; use `Config.wtf` to change graphics.
+- If changed in-game, max FPS resets to 15 and must be adjusted back.
 
 **🎵 Additional Add-ons**
 
