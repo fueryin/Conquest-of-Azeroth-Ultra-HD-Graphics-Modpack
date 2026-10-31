@@ -77,7 +77,7 @@ patch-ZZY.MPQ – Retail Cursor Icons
 patch-ZZZ.MPQ – Enhanced Blood Splatters
 ```
 
-Each patch targets a different part of the game, working together to provide a substantially upgraded visual experience.
+Any patch can be removed with the Exception of Patch-ZZB, ZZD, & ZZE
 
 ---
 
