@@ -84,8 +84,8 @@ In addition to the HD patches, the download includes several additional enhancem
 
 **🎵 Included Add-ons**
 
-- Blood Splats on Critical Hits – Adds blood splatter effects on-screen when landing critical strikes.
-- Dance Music – Adds music when using dance emotes.
+- Bloody Screen – Adds blood splatter effects on-screen when landing critical strikes.
+- Music While You Dancing – Adds music when using dance emotes.
 
 ---
 
