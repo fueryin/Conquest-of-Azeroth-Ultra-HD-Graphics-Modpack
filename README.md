@@ -1,7 +1,7 @@
 
 # 🌌 Ascension: Conquest of Azeroth – Ultra-HD Mod Pack
 
-## 🚀 Performance Update: CoA64 is now optimized, should never drop below 100fps
+### 🚀 Performance Update: CoA64 is now optimized, should never drop below 100fps
 
 A complete Ultra-HD graphics and audio overhaul for **Ascension: Conquest of Azeroth**, featuring modernized creature models, high-resolution textures, enhanced spell effects, improved environments, lighting, water, shaders, and more.
 
